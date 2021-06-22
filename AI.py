@@ -15,7 +15,7 @@ ear = speech_recognition.Recognizer()
 brain = ""
 now = datetime.now()
 today = date.today()
-music_dir = 'D:\\Down nhạc'
+music_dir = 'D:\\Down nhạc'   #Thư mục chứa nhạc
 songs = random.choices(os.listdir(music_dir))
 translator = Translator()
 wikipedia.set_lang("vi")
