@@ -3,5 +3,5 @@ Bạn chỉ việc tải python về và cài các thư viện cho code là đã
 Chúc các bạn thành công !
 <--------------------------------------------->
 This is my first project, hope you guys like it🥰
-You just need to download python and install the libraries for the code to run
+You just need to download python and install the modules for the code to run
 Good luck !
