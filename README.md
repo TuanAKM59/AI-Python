@@ -5,7 +5,7 @@
     Chúc các bạn thành công !</br>
     <---------------------------------------------></br>
     This is my first project, hope you guys like it🥰</br>
-    You just need to download python and install the modules for the code to run</br>
+    You just need to download python and install the library for the code to run</br>
     Good luck !</br>
   </p>
 </html>
